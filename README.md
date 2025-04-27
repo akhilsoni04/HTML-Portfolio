@@ -13,7 +13,7 @@ This portfolio serves as a digital resume, featuring:
 - **HTML5**: Structuring the page and content.
 
 ## 🌐 Live Demo
-Check out the live demo of the portfolio: [Live Demo](https://<your-username>.github.io/PortfolioByHTML/) 🚀
+Check out the live demo of the portfolio: [Live Demo](https://akhilsoni04.github.io/HTML-Portfolio/) 🚀
 
 ## 🌟 Features
 - **Clean & Semantic HTML**: Built with proper HTML tags for clarity and structure.
